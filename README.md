@@ -1,2 +1,2 @@
 # lime ML
-lime
+The code is currently under development, and it has a few different bugs. 
