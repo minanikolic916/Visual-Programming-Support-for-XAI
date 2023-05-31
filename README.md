@@ -1,2 +1,2 @@
 # lime ML
-The code is currently under development, and it has a few different bugs. 
+The code for Lime explainable AI widget is displayed in the mywidget.py file.
