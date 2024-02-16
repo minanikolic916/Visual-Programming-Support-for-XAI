@@ -1,4 +1,4 @@
-# Visual Programming Project 👓: :computer:
+# Visual Programming Project 👓 + :computer:
 
 Welcome to the Visual Programming project! This project aims to simplify coding by allowing users to create programs using visual elements instead of text-based code.
 
